@@ -464,6 +464,10 @@ button {
     outline: none!important;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 .btn-rd {
     border-radius: 40px;
 }
