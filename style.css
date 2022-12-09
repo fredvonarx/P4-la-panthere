@@ -655,7 +655,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000000!important;
 }
 
 .container {
@@ -727,7 +727,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #000000!important;
 }
 
 h4 {
@@ -1043,4 +1043,8 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.tc-white {
+    color: #FFFFFF!Important;
 }
