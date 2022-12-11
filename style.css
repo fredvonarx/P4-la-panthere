@@ -681,7 +681,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -1055,4 +1055,14 @@ h4 {
 
 .black {
     color: #000000!Important;
+}
+
+p.bigger{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+p.citation {
+    font-size: 17px;
+    font-style: italic;
 }
