@@ -768,6 +768,10 @@ h4 {
     text-decoration: underline!important;
 }
 
+.bold-link:hover {
+    text-decoration: none!important;
+}
+
 .bgc-white {
     background-color: #FFFFFF;
 }
@@ -793,10 +797,12 @@ h4 {
 
 .ltc-white {
     color: #FFFFFF!important;
+    font-size: 18px;
 }
 
 .ltc-white:hover {
-    color: #cccccc!important;
+    color: #000!important;
+    text-decoration: none;
 }
 
 .ltc-atomic-tangerine {
