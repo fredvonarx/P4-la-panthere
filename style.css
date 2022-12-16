@@ -279,7 +279,7 @@ a:hover {
 
 .row.row-no-gutters > [class^="col-"],
 .row.row-no-gutters > [class*=" col-"] {
-    padding-right: 0;
+    padding-right: 40px;
     padding-left: 0;
 }
 
@@ -1071,4 +1071,9 @@ p.bigger{
 p.citation {
     font-size: 17px;
     font-style: italic;
+}
+
+.social{
+    display: flex;
+    flex-direction: row;
 }
