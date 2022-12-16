@@ -151,6 +151,7 @@ a:hover {
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
     color: #000;
+    transform: scale(1.65);
 }
 
 .d-bloc .navbar-toggle .icon-bar {
